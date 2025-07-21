@@ -1,2 +1,2 @@
 #!/bin/bash
-for dir in *; do [ -d "$dir" ] && chmod 755 "$dir"; done
+for dir in * do [ -d "$dir" ]  chmod 755 "$dir" done
