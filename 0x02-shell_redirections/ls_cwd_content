@@ -1,0 +1,18 @@
+total 64
+drwxrwxr-x 2 sanorod sanorod 4096 Jul 21 10:46 .
+drwxrwxr-x 6 sanorod sanorod 4096 Jul 20 21:07 ..
+-rwxrwxr-x 1 sanorod sanorod   33 Jul 20 21:26 0-hello_world
+-rwxrwxr-x 1 sanorod sanorod   28 Jul 20 21:38 1-confused_smiley
+-rwxrwxr-x 1 sanorod sanorod   28 Jul 20 21:43 2-hellofile
+-rwxrwxr-x 1 sanorod sanorod   39 Jul 20 21:46 3-twofiles
+-rwxrwxr-x 1 sanorod sanorod   29 Jul 20 21:49 4-lastlines
+-rwxrwxr-x 1 sanorod sanorod   29 Jul 20 21:58 5-firstlines
+-rwxrwxr-x 1 sanorod sanorod   40 Jul 21 10:22 6-third_line
+-rwxrwxr-x 1 sanorod sanorod   77 Jul 21 10:43 7-file
+-rwxrwxr-x 1 sanorod sanorod   36 Jul 21 10:46 8-cwd_state
+-rw-rw-r-- 1 sanorod sanorod   12 Jul 21 10:43 *\'"Best School"\'*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 sanorod sanorod   12 Jul 21 10:29 *\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 sanorod sanorod   12 Jul 21 10:38 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 sanorod sanorod   40 Jul 21 10:25 iacta
+-rw-rw-r-- 1 sanorod sanorod    0 Jul 21 10:46 ls_cwd_content
+-rw-rw-r-- 1 sanorod sanorod  292 Jul 20 21:18 README.md
