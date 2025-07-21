@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
-# A Bash script that displays all currently running processes in a user-oriented hierarchical format
-ps -eo user,pid,pcpu,pmem,vsz,rss,tty,stat,start,time,cmd --forest
+# A Bash script that displays all running processes with user, full start time, and command
+ps -eo user,lstart,cmd --no-headers | awk '{ 
+    user=$1; 
+    start=$4":"$5":"$6; 
+    cmd=""; 
+    for(i=8;i<=NF;i++) cmd=cmd $i " "; 
+    printf "%s %s %s\n", user, start, cmd 
+}' | column -t
